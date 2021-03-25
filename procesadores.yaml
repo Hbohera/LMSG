@@ -1,0 +1,198 @@
+--- 
+processors: 
+  processor: 
+    - 
+      brand: Intel
+      description: "Es un potente SoC dual-core para portátiles basados en la generación Comet Lake (CML-U)"
+      email: heliosboheraviejo@gmail.com
+      features: 
+        feature: 
+          - "Núcleos: 2"
+          - "Flujos: 4"
+          - "Caché de nivel 1: 64K (por núcleo)"
+          - "Caché de nivel 2: 256K (por núcleo)"
+          - "Caché de nivel 3: 4 MB (total)"
+      generation: "10º Generación"
+      image: 
+        "text": "https://drive.google.com/open?id=1Rfd-f1O8awhfqzMO7gh0GsgKY-ZZi9U_"
+        "type": URL
+      model: i3-10110U
+      releasedate: 21/08/2019
+      speeds: 
+        "text": "2,10 a 4,10"
+        "unit": GHz
+    - 
+      brand: AMD
+      description: "Es uno de los primeros procesadores para PC grabado en 7 nm y compatible con la interfaz PCIe 4.0."
+      email: hbohera@institutmvm.cat
+      features: 
+        feature: 
+          - "Núcleos: 6"
+          - "Flujos: 12"
+          - "Caché de nivel 1: 96K (por núcleo)"
+          - "Caché de nivel 2: 512K (por núcleo)"
+          - "Caché de nivel 3: 32 MB (total)"
+      generation: "3º Generación"
+      image: 
+        "text": "https://drive.google.com/open?id=1cot7tNat5akETMskwMkUchIMeDyMJK-P"
+        "type": URL
+      model: "Ryzen 5 3600"
+      releasedate: 7/07/2019
+      speeds: 
+        "text": "3,6 a 4,2"
+        "unit": GHz
+    - 
+      brand: AMD
+      description: "Es un chip de nivel de entrada de la serie de APUs Stoney-Ridge para portátiles."
+      email: heliosboheraviejo@gmail.com
+      features: 
+        feature: 
+          - "Núcleos: 2"
+          - "Flujos: 2"
+          - "Caché de nivel 1: 160 kB"
+          - "Caché de nivel 2: 1 MB"
+      generation: "7º Generación"
+      image: 
+        "text": "https://drive.google.com/open?id=1Kv1upX7PiRX8K27Rqfn2Qo6jHYfSmTiW"
+        "type": URL
+      model: A6-9225
+      releasedate: 1/06/2018
+      speeds: 
+        "text": "2,6 a 3"
+        "unit": GHz
+    - 
+      brand: Intel
+      description: "Es un procesador para computadoras diseñado y fabricado por Intel, se considera de muy alta calidad en el campo de los microprocesadores de múltiples núcleos."
+      email: hbohera@institutmvm.cat
+      features: 
+        feature: 
+          - "Núcleos: 8"
+          - "Flujos: 16"
+          - "Caché de nivel 1: 64K (por núcleo)"
+          - "Caché de nivel 2: 256K (por núcleo)"
+          - "Caché de nivel 3: 16 MB (total)"
+      generation: "10º Generación"
+      image: 
+        "text": "https://drive.google.com/open?id=1zM0dkMPEz86C5lbtohxy7ZqkNIZgVqor"
+        "type": URL
+      model: i9-10980HK
+      releasedate: 2/04/2020
+      speeds: 
+        "text": "2,4 a 5,1"
+        "unit": GHz
+    - 
+      brand: Qualcomm
+      description: "Es una familia de sistemas en chip (SoC) diseñados y vendidos por Qualcomm. La unidad central de procesamiento (CPU) de los Snapdragon utiliza el set de instrucciones de tipo RISC desarrollado por ARM."
+      email: psarsanedas@institutmvm.cat
+      features: 
+        feature: 
+          - "Núcleos: 8"
+          - "GPU: Adreno 650"
+          - "Velocidad GPU: 650 MHz"
+          - "Lectura NAND: SD 3.0 (UHS-I)"
+      generation: "5º Generación"
+      image: 
+        "text": "https://drive.google.com/open?id=1hft9L1VThU8VrsHyHLNylG6qwmyYrOT7"
+        "type": URL
+      model: "Snapdragon 865+"
+      releasedate: 15/05/2020
+      speeds: 
+        "text": "1,8 a 2,84"
+        "unit": GHz
+    - 
+      brand: Qualcomm
+      description: "Es una familia de sistemas en chip (SoC) diseñados y vendidos por Qualcomm. La unidad central de procesamiento (CPU) de los Snapdragon utiliza el set de instrucciones de tipo RISC desarrollado por ARM."
+      email: psarsanedas@institutmvm.cat
+      features: 
+        feature: 
+          - "Núcleos: 8"
+          - "GPU: Adreno 506"
+          - "Velocidad GPU: 650 MHz"
+          - "Lectura NAND: eMMC 5.1, SD 3.0"
+      generation: "2º Generación"
+      image: 
+        "text": "https://drive.google.com/open?id=154h1MLJgTEqr3LRlIwCSUMiRYJ7bbnWp"
+        "type": URL
+      model: "Snapdragon 450"
+      releasedate: 7/01/2013
+      speeds: 
+        "text": "1,8"
+        "unit": GHz
+    - 
+      brand: Intel
+      description: "Es de escritorio procesador en la arquitectura Haswell priméramente desarrollado para sistemas de oficina."
+      email: abohera@institutmvm.cat
+      features: 
+        feature: 
+          - "Núcleos: 4"
+          - "Flujos: 4"
+          - "Caché de nivel 1: 64K (por núcleo)"
+          - "Caché de nivel 2: 256K (por núcleo)"
+          - "Caché de nivel 3: 6 MB (total)"
+      generation: "4º Generación"
+      image: 
+        "text": "https://drive.google.com/open?id=1VpzNdIo4A7neKNXX7TymtdUtQDaOwyGD"
+        "type": URL
+      model: i5-4590
+      releasedate: 1/05/2014
+      speeds: 
+        "text": "3,30 a 3,70"
+        "unit": GHz
+    - 
+      brand: AMD
+      description: "\"Es un microprocesador de escritorio x86 de alto rendimiento con 12 núcleos de 64 bits presentado por AMD. Fabricado en el proceso de 7 nm de TSMC basado en la microarquitectura Zen 2.\""
+      email: abohera@institutmvm.cat
+      features: 
+        feature: 
+          - "Núcleos: 12"
+          - "Flujos: 24"
+          - "Caché de nivel 1: 96K (por núcleo)"
+          - "Caché de nivel 2: 512K (por núcleo)"
+          - "Caché de nivel 3: 64 MB"
+      generation: "3º Generación"
+      image: 
+        "text": "https://drive.google.com/open?id=1geR8qzYhweYe-gtAYJpj9qaQvqEYm1UN"
+        "type": URL
+      model: "Ryzen 9 3900x"
+      releasedate: 7/07/2019
+      speeds: 
+        "text": "3,8 a 4,6"
+        "unit": GHz
+    - 
+      brand: Intel
+      description: "Es un procesador en la arquitectura Sandy Bridge priméramente desarrollado para sistemas de oficina."
+      email: heliosboheraviejo@gmail.com
+      features: 
+        feature: 
+          - "Núcleos: 4"
+          - "Flujos: 4"
+          - "Caché de nivel 1: 64 kB (por núcleo)"
+          - "Caché de nivel 2: 256 kB (por núcleo)"
+          - "Caché de nivel 3: 6144 kB (total)"
+      generation: "2º Generación"
+      image: 
+        "text": "https://drive.google.com/open?id=1x4mwTimk4_-2Av13HFhEgsJut78eWjc8"
+        "type": URL
+      model: i5-2400
+      releasedate: 9/01/2011
+      speeds: 
+        "text": "3,1 a 3,4"
+        "unit": GHz
+    - 
+      brand: AMD
+      description: "Este procesador pertenece al fabricante norteamericano AMD, fue lanzando a principios del 2018, es la séptima generación de la gama y al momento de su estreno fue el procesador más rápido en su tipo."
+      email: hbohera@institutmvm.cat
+      features: 
+        feature: 
+          - "Núcleos: 2"
+          - "Flujos: 2"
+          - "Caché de nivel 2: 1 MB"
+      generation: "7º Generación"
+      image: 
+        "text": "https://drive.google.com/open?id=1ZCVB5xKPRjtU7-f0XK03E_CLkWnC9bnm"
+        "type": URL
+      model: A9-9425
+      releasedate: 1/06/2016
+      speeds: 
+        "text": "3,1 a 3,7"
+        "unit": GHz
