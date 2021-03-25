@@ -12,10 +12,9 @@ especies:
       familia: Invertebrats
       idioma: ca
       informacio_general: 
-        descripcio: |-
-            Les esponges o porífers (Porifera) són un embrancament d'animals simples i primitius ja coneguts des de temps remots. L'acceptació del clade Epitheliozoa comportaria que els porífers fossin tàxon és parafilètic, ja que els eumetazous en descendeixen.
-            
-            Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sembla que no són avantpassats de cap altre grup d'animals i que, més aviat, constitueixen una branca sense continuïtat en l'arbre evolutiu.
+        descripcio: |
+        - "Les esponges o porífers (Porifera) són un embrancament d'animals simples i primitius ja coneguts des de temps remots. L'acceptació del clade Epitheliozoa comportaria que els porífers fossin tàxon és parafilètic, ja que els eumetazous en descendeixen."
+        - "Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sembla que no són avantpassats de cap altre grup d'animals i que, més aviat, constitueixen una branca sense continuïtat en l'arbre evolutiu."
         foto: "https://www.cibsub.cat/rcs_gene/Axinella_verrucosa00.jpg"
       lloc: "Port Fòrum - Barcelona"
       mida: 
